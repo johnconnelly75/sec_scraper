@@ -5,6 +5,11 @@ from collections import OrderedDict
 import pandas as pd
 
 """
+https://www.sec.gov/edgar/searchedgar/accessing-edgar-data.htm
+https://www.sec.gov/Archives/edgar/data/51143/
+
+
+
 Directory Browsing
 Directory browsing is allowed for CIK and Accession Number directories. For example:
 
